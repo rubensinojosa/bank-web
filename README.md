@@ -1,6 +1,4 @@
-# ![image](https://github.com/luiseduardot17/teslabank-codelandia/assets/102761201/f5bb2d1e-0dae-4f05-822e-55006255ca23) TeslaBank
-
-#### Codelândia é uma comunidade que te ajuda a aprender mais por meio de desafios. Basicamente em um período de tempo é lançado um desafio e você faz esse desafio para aprendizado com a tecnologia que quiser. <a href="https://discord.com/invite/QevDJqCzaY" target="_blank">Entre na comunidade!</a>
+https://teslabank-codelandia.vercel.app/
 
 ## 🧩 Tecnologias utilizadas:
 
