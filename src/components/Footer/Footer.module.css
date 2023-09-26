@@ -1,0 +1,13 @@
+.button {
+    background-color: transparent;
+    width: max-content;
+    border:3px solid #e51d37;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.arrow {
+    width: 52px;
+    size: 100% auto;
+    transform: rotate(180deg);
+}

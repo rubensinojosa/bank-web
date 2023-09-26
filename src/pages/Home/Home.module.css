@@ -1,0 +1,17 @@
+.containerCards {
+    padding: 0;
+    width: 100%;
+    
+}
+.containerCards > div{
+    margin-left: 0;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 10px;
+}
+
+.containerCards div div {
+    margin-left: 0;
+}
