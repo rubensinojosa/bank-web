@@ -2,7 +2,7 @@
 
 https://rubens-bank-app.netlify.app/
 
-https://github.com/rubensinojosa/bank-web/blob/main/public/bank.png
+<img src="https://github.com/rubensinojosa/bank-web/blob/main/public/bank.png" align="center" />
 
 ## 🧩 Tecnologias utilizadas:
 
