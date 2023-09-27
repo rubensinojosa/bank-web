@@ -1,4 +1,4 @@
-https://teslabank-codelandia.vercel.app/
+https://rubens-bank-app.netlify.app/
 
 ## 🧩 Tecnologias utilizadas:
 
